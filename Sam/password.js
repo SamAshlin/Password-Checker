@@ -43,6 +43,6 @@ function checkStrength() {
         return;
     }
 
-    document.getElementById("result").innerHTML = "WoW! You have sucessfully created a STRONG PASSWORD";
+    document.getElementById("result").innerHTML = "WoW! You have sucessfully created a STRONG--PASSWORD";
     
 }
